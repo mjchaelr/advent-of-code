@@ -1,4 +1,5 @@
-First time with kotlin :D 
+Developer Notes:
+First time developing with kotlin. This repo is just for fun! :D 
 
 # advent-of-code
 
